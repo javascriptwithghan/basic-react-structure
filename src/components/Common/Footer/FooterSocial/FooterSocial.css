@@ -1,0 +1,11 @@
+.socialIcons {
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px;
+}
+
+
+.socialIcons img{
+    width: 20px;
+    height: 20px;
+ }

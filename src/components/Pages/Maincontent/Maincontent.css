@@ -1,0 +1,16 @@
+.main {
+    position: relative;
+    top: 103px;
+    padding: 0 36px;
+}
+
+.main h2 {
+    font-size: 28px;
+    font-family: sans-serif;
+}
+
+.main p {
+    line-height: 25px;
+    font-size: 16px;
+    font-family: Arial;
+}
